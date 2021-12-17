@@ -33,6 +33,13 @@ Alt + 1
 # 隐藏到托盘
 Alt + 2
 ```
+## FAQ
+``` bash
+# 表格每行最多显示150个字符，如何查看所有内容？
+双击table行便可打开编辑窗口，可以复制也可以修改
+```
+
+
 
 ## Download
 Windows: [app release](https://github.com/FangPengbo/exhale/releases/tag/v1.0.0)

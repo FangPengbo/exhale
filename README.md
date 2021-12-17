@@ -35,4 +35,4 @@ Alt + 2
 ```
 
 ## Download
-Windows: [app release]()
+Windows: [app release](https://github.com/FangPengbo/exhale/releases/tag/v1.0.0)
